@@ -69,5 +69,5 @@ Gemini 3.0 represents a major advancement in multimodal AI capabilities:
 ### Task: Update Gemini Model to 3.0 using `/model` command
 
 **Steps to Update Gemini Model to 3.0:**
-![screenshot](geminicli.JPG)
+!()[geminicli1.JPG]
 **1. Install/Update Gemini CLI to latest version:**
