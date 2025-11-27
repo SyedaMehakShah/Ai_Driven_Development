@@ -26,7 +26,7 @@
 ## 3. `/mcp list` result
 
 #### Screenshot / Image
-![/mcp list result](mcplist.JPG)
+![/mcp list result](mcp_list.JPG)
 
 ---
 
