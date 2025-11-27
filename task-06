@@ -1,37 +1,34 @@
-
-
 # Assignment Title
-### Ai_Drive_Development
+
+### AI-Driven Development
 
 ## Student Details
 - **Name:** Syeda Mehak Shah
----
-
-## 1..env file (token blurred)
-
-#### Screenshot / Image
-![gemini](token.JPG)
 
 ---
 
-## 2.settings.json
-
+## 1. .env file (token blurred)
 
 #### Screenshot / Image
-![gemini](setting.JPG)
+![.env file (token blurred)](token.JPG)
 
 ---
 
-## 3 . /mcp list result
-
+## 2. settings.json
 
 #### Screenshot / Image
-![gemini](mcplist.JPG)
+![settings.json](setting.JPG)
 
 ---
-## 4 . GitHub repo list output
+
+## 3. `/mcp list` result
 
 #### Screenshot / Image
-![gemini](github.JPG)
+![/mcp list result](mcplist.JPG)
 
+---
 
+## 4. GitHub repo list output
+
+#### Screenshot / Image
+![GitHub repo list output](github.JPG)
